@@ -6,7 +6,7 @@ I find out random freelance job and make a solution for personal practice so I'm
 willing to share it. 
 
 This script scans custom set of data that is defined by needs of client (check structs
-that are initialized in start of code) from [a link](https://whoisjsonapi.com/).
+that are initialized in start of code) from [whoisjsonapi](https://whoisjsonapi.com/).
 If you are in need of additional fields that API can provide you, just adapt structure
 of the code (main.go) to a fields that are avaiable on API response. 
 
