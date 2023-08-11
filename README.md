@@ -1,4 +1,4 @@
-# domainScan
+# whoisjsonapi domainScan
 Script that reads list of domains and retrieve custom info in JSON line format
 
 
